@@ -1,0 +1,18 @@
+* {
+    font-family: sans-serif;
+    margin: 0;
+}
+.cabecalho img {
+    width: 250px;
+    margin: 15px auto;
+}
+.cabecalho {
+    background-color: #818678;
+    padding: 25px 0;
+    text-align: center;
+}
+.cabecalho a {
+    margin: 5px;
+    color: white;
+    text-decoration: none;
+}
